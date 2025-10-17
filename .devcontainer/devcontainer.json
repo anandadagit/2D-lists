@@ -1,0 +1,17 @@
+{
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "-github.copilot",
+                "-github.copilot-chat",
+                "ms-toolsai.jupyter-keymap",
+                "ms-toolsai.jupyter-renderers",
+                "ms-toolsai.vscode-jupyter-slideshow",
+                "ms-python.vscode-pylance",
+                "ms-python.python",
+                "ms-python.debugpy",
+                "ms-python.vscode-python-envs"
+            ]
+        }
+    }
+}
